@@ -1,0 +1,22 @@
+# schema.graphql
+type Query {
+  albumSet: [Album]!
+}
+
+
+# Album
+type Album { 
+  title: String 
+
+}
+
+# Song 
+type Track {
+  name: String
+  
+}
+
+# Eric
+type Artist {
+  name: String
+}
