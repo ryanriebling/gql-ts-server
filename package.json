@@ -13,7 +13,7 @@
     },
     "devDependencies": {
         "@divyenduz/ts-graphql-plugin": "^0.1.0",
-        "@graphql-codegen/cli": "^1.11.2",
+        "@graphql-codegen/cli": "^1.21.8",
         "@types/compression": "^1.0.1",
         "@types/express": "^4.17.2",
         "@types/graphql": "^14.5.0",
